@@ -1,0 +1,20 @@
+# Task 1: Grocery Store Math
+Milk = 3.25
+Eggs = 5.50
+Beef = 5.25
+print (Milk+Eggs+Beef)
+
+# Task2: BankInterest
+
+Initial_amount = 4675
+fixed_yearly_intrest_rate = .07
+print (Initial_amount*fixed_yearly_intrest_rate + Initial_amount)
+
+# Task 3: Area and perimeter
+
+length = 15
+width = 78
+area = length*width
+print (area)
+perimeter = 2*(length+width)
+print (perimeter)
