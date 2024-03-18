@@ -1,14 +1,14 @@
 # Task 1: Grocery Store Math
-Milk = 3.25
-Eggs = 5.50
-Beef = 5.25
-print (Milk+Eggs+Beef)
+milk = 3.25
+eggs = 5.50
+beef = 5.25
+print (milk+eggs+beef)
 
 # Task2: BankInterest
 
-Initial_amount = 4675
+initial_amount = 4675
 fixed_yearly_intrest_rate = .07
-print (Initial_amount*fixed_yearly_intrest_rate + Initial_amount)
+print (initial_amount*fixed_yearly_intrest_rate + initial_amount)
 
 # Task 3: Area and perimeter
 

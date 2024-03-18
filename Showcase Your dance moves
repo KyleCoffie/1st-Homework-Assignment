@@ -2,15 +2,15 @@
 
 weather = "sunny"
 
-if weather == "sunny"
+if weather == "sunny":
     print ("Wear sunglasses!")
 
 else: 
     print ("Take an umbrella")
 
 # Task 2
-How do you feel today = "happy"
-if How do you feel today == "happy"
+feeling_today = "happy"
+if feeling_today == "happy":
     print("That's great to hear!")
 
 else:

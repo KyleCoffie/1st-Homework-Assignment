@@ -24,9 +24,9 @@ b = 2
 
 print (a+b==5)
 
-TA_is_nice= True
-BMW_is_nice=True
+ta_is_nice= True
+bmw_is_nice=True
 
-Good_car=TA_is_nice and BMW_is_nice
+good_car=ta_is_nice and bmw_is_nice
 
-print(Good_car)
+print(good_car)
